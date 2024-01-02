@@ -28,9 +28,9 @@
             </div>
             <div class="col-sm-4">
                 <h4>Información de contacto</h4>
-                <div class="page-footer-info">
+                <!-- <div class="page-footer-info">
                     <i class="icon icon-location"></i>3261 Anmoore Road Brooklyn, NY 11230
-                </div>
+                </div> -->
                 <div class="page-footer-info">
                     <i class="icon icon-phone"></i><span class="text-nowrap">
                         <a href="tel:+526243821767">+52 624 382 1767</a>
@@ -40,11 +40,11 @@
                     <i class="icon icon-letter"></i><a href="mailto:info@cleanpro.com">info@cleanpro.com</a>
                 </div>
                 <div class="page-footer-info">
-                    <i class="icon icon-clock1"></i>Lunes - viernesi: 9:00 am – 5:00 pm
+                    <i class="icon icon-clock1"></i>Lunes - viernes: 9:00 am – 5:00 pm
                     <br> Sábado - Domingo: Cerrado
                 </div>
                 <div class="btn-wrap"><a href="tel:+526243821767" class="btn animation" data-animation="tada">
-                    Contáctnos
+                    Contáctanos
                 </a></div>
             </div>
         </div>
